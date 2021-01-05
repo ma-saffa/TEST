@@ -1,0 +1,2 @@
+msg = "HELLLOOOO"
+print(msg)
